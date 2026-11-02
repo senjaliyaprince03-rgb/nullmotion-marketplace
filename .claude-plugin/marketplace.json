@@ -1,0 +1,13 @@
+{
+  "name": "nullmotion-marketplace",
+  "owner": {
+    "name": "senjaliyaprince03-rgb"
+  },
+  "plugins": [
+    {
+      "name": "nullmotion-helper",
+      "description": "Unofficial helper for setting up and using NullMotion.",
+      "source": "./"
+    }
+  ]
+}
